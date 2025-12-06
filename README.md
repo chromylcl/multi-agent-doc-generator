@@ -65,3 +65,8 @@ Validator Agent (Issues/Suggestions)
    ↓
 Presenter (Tree View, Files)
 ```
+
+## 🎥 Demo Video
+
+Here is a short demo showing the system running:
+https://www.loom.com/share/9470acb3924941079eed2983a94639b9
