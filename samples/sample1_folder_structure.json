@@ -1,0 +1,52 @@
+{
+  "backend": {
+    "app": {
+      "migrations": {},
+      "models": {},
+      "views": {},
+      "serializers": {},
+      "urls.py": "",
+      "tests": {}
+    },
+    "config": {
+      "settings.py": "",
+      "urls.py": "",
+      "wsgi.py": "",
+      "asgi.py": ""
+    },
+    "manage.py": "",
+    "requirements.txt": ""
+  },
+  "frontend": {
+    "public": {
+      "index.html": "",
+      "favicon.ico": ""
+    },
+    "src": {
+      "components": {},
+      "pages": {},
+      "services": {},
+      "utils": {},
+      "hooks": {},
+      "assets": {
+        "images": {},
+        "styles": {}
+      },
+      "App.js": "",
+      "index.js": ""
+    },
+    "package.json": "",
+    "README.md": ""
+  },
+  "docker": {
+    "Dockerfile.backend": "",
+    "Dockerfile.frontend": "",
+    "docker-compose.yml": ""
+  },
+  "docs": {},
+  "tests": {
+    "backend": {},
+    "frontend": {}
+  },
+  "README.md": ""
+}

@@ -1,0 +1,12 @@
+Create a personal finance tracker app.
+
+Features:
+- Add income and expenses
+- Categorize expenses
+- Monthly spending summary
+- Export data to CSV
+
+Tech stack: React, Django, PostgreSQL, Docker support
+
+Goals:
+Focus on clean UI and offline mode.
