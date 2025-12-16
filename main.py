@@ -25,7 +25,6 @@ def main():
     # Continue normal workflow
     result = generate_project(notes)
 
-    result = generate_project(notes)
 
     parsed = result["parsed"]
     readme_md = result["readme_md"]
